@@ -1,0 +1,16 @@
+*|h2 {
+  font-family: rockwell extra bold;
+  color: white;
+}
+*|body {
+  background-image: url(../img/F1Academy-hero.jpg);
+  background-position:  center center;
+}
+*|h1 {
+  background-image: url(../img/FA-Logo2_MainImage.jpg);
+  background-position:  center center;
+}
+*|img {
+  border-style: groove;
+  border-color: #993399;
+}

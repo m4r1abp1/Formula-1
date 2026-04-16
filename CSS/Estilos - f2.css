@@ -1,0 +1,16 @@
+h2 {
+  font-family: rockwell extra bold;
+  color: white;
+}
+body {
+  background-image: url(../img/F2-2024.jpg);
+  background-position:  center center;
+}
+h1 {
+  background-image: url(../img/images.png);
+  background-position:  center center;
+}
+img {
+  border-style: ridge;
+  border-color: #000066;
+}

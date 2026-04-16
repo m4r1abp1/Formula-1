@@ -1,0 +1,16 @@
+h2 {
+  font-family: rockwell extra bold;
+  color: white;
+}
+body {
+  background-image: url(../img/black-angled-paper-slits-design-free-vector.jpg);
+  background-position:  center center;
+}
+h1 {
+  background-image: url(../img/imagesf3.png);
+  background-position:  center center;
+}
+img {
+  border-style: groove;
+  border-color: #666666;
+}
